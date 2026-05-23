@@ -14,8 +14,9 @@
 ### Мои проекты:
 |Название проекта| Описание проекта| Стек|
 
+<hr>
+
 ### Языки и инструменты: 
-<div>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
-</div>
+
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
