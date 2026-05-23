@@ -1,4 +1,4 @@
 <h1 align="center">Привет, я Влада</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&width=435&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%F0%9F%93%8A" alt="Typing SVG" /></a>
